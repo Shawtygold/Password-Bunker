@@ -27,7 +27,9 @@ Password Bunker current version:
 <div align="center">
  <h3>Passwords</h3>
   <img src="https://github.com/Shawtygold/Password-Bunker/blob/master/Screenshot1.png"/>
- <h4/>
+ <h3>Add/change password</h3>
+  <img src="https://github.com/Shawtygold/Password-Bunker/blob/master/Screenshot3.png"/>
+   <h3>Getting password</h3>
   <img src="https://github.com/Shawtygold/Password-Bunker/blob/master/Screenshot2.png"/>
 </div>
 
