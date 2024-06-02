@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace PasswordsBunker.MVVM.Model
@@ -63,6 +62,7 @@ namespace PasswordsBunker.MVVM.Model
             {
                 //добавление пароля в базу данных
                 using PasswordsDbContext db = new();
+    
 
                 await db.Passwords.AddAsync(password);
                 await db.SaveChangesAsync();
